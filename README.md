@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jhimmyofficial" target="blank"><img src="https://img.shields.io/twitter/follow/jhimmyofficial?logo=twitter&style=for-the-badge" alt="jhimmyofficial" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate with **other creative web developers**
 
