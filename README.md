@@ -9,7 +9,7 @@
 
 - 🥅 2022 Goals: **Contribute more to Open Source**
 
-- 👨‍💻 All of my projects are available at [portfolio-jhimmy.netlify.app](portfolio-jhimmy.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio-jhimmy.netlify.app](jhimmyofficial.netlify.app)
 
 - 📄 Know about my experiences [https://www.myperfectresume.com/me/feyijimi-erinle](https://www.myperfectresume.com/me/feyijimi-erinle)
 
