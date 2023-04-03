@@ -27,9 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jhimmyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jhimmyofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/jhimmyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhimmyofficial" height="30" width="40" /></a>
+<a href="[https://twitter.com/jhimmyofficial](https://twitter.com/onlyone_ERIN)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhimmyofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jhimmyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhimmyofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/jhimmyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhimmyofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/onlyone_erin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhimmyofficial" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jhimmyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jhimmyofficial" height="30" width="40" /></a>
 <a href="https://medium.com/@jhimmyofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jhimmyofficial" height="30" width="40" /></a>
 </p>
