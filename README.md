@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **other creative web developers**
 
-- 🥅 2022 Goals: **Contribute more to Open Source**
+- 🥅 2023 Goals: **Contribute more to Open Source**
 
 - 👨‍💻 All of my projects are available at [jhimmyofficial.netlify.app](jhimmyofficial.netlify.app)
 
