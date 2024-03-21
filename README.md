@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm The ERIN</h1>
-<h3 align="center">A Creative Web Developer based in Lagos, Nigeria</h3>
+<h3 align="center">A Creative Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/jhimmyofficial" target="blank"><img src="https://img.shields.io/twitter/follow/jhimmyofficial?logo=twitter&style=for-the-badge" alt="jhimmyofficial" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I Speak German, English and a little bit of Spanish (Ich Spreche Deutsch, Englisch und ein bisschen Spanisch)**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **erinlejhimmy@gmail.com**
 
